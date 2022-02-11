@@ -3,4 +3,4 @@ project(CSC352_PA3_scut)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(CSC352_PA3_scut scut.cpp)
+add_executable(CSC352_PA3_scut scut.cpp scut.c)
